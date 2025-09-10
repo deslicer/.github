@@ -31,6 +31,22 @@ Our technology stack combines:
 
 Our solutions are trusted across **finance, manufacturing, telecom, fintech, and global enterprises** delivering consistency, security, and innovation at scale.
 
+---
+
+## 🏆 Recognition
+
+<table>
+  <tr>
+    <td width="200">
+      <img src="../media/splunk_emea_technology_innovation.png" alt="Splunk Partner of the Year Award 2025" width="200"/>
+    </td>
+    <td>
+      <p>We are proud to be recognized by <strong>Splunk</strong>, as:</p>
+      <p>👉 <strong>Splunk EMEA Technology Innovation Partner of the Year</strong></p>
+      <p>We are incrediby proud of this award and it really highlights our commitment to pushing the boundaries of technology and building solutions that redefine the future of automation.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
